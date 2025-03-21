@@ -1,6 +1,6 @@
 {
   "name": "Fedex",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "The official TypeScript library for the Fedex API",
   "author": "Fedex <dev-feedback@Fedex.com>",
   "types": "dist/index.d.ts",
