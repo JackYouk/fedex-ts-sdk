@@ -1,2 +1,4 @@
 configured_endpoints: 6
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/acme-JackYouk%2FFedex-11d853d5b716706d6e9eda6092ab0e729af44628acb41cb24b32f4f4e0a25bae.yml
+openapi_spec_hash: 09a50df3d71c99f785840a1da1b88f51
+config_hash: 68652a137c3c78ba2411c3c602dc414d
