@@ -1,5 +1,5 @@
 import { multipartFormRequestOptions, createForm } from 'Fedex/internal/uploads';
-import { toFile } from 'Fedex/uploads';
+import { toFile } from 'Fedex/core/uploads';
 
 describe('form data validation', () => {
   test('valid values do not error', async () => {
