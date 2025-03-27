@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIResource } from '../../../../resource';
+import { APIResource } from '../../../../core/resource';
 import * as ShipmentsAPI from './shipments';
 import * as PackagesAPI from './packages';
 import { PackageValidateParams, PackageValidateResponse, Packages } from './packages';
@@ -13,7 +13,7 @@ import {
   TagCreateParams,
   TagCreateResponse,
 } from './tag';
-import { APIPromise } from '../../../../api-promise';
+import { APIPromise } from '../../../../core/api-promise';
 import { buildHeaders } from '../../../../internal/headers';
 import { RequestOptions } from '../../../../internal/request-options';
 
